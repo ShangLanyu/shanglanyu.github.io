@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lanyu Shang"
 title_separator          : "-"
 name                     : &name "Lanyu Shang"
-description              : &description "personal description"
+description              : &description "Ph.D. Student in CSE"
 url                      : https://shanglanyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShangLanyu/shanglanyu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lanyu Shang"
   avatar           : "profile.png"
-  bio              : "Third-year Ph.D. student"
+  bio              : "Ph.D. Student in CSE"
   location         : "Notre Dame, IN"
   employer         :
   pubmed           :
