@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Vurriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -28,3 +28,8 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Honors & Awards
+======
+**Outstanding Graduate Student Teaching Award**, University of Notre Dame, 2020
+**Student Travel Award**, IEEE BigData, 2019
