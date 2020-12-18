@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science and Engineering, _University of Notre Dame_, 2023 (expected)
-* M.S. in Data Science, _New York University_, 2017
-* B.S. in Applied Mathematics, _University of California - Loa Angeles_, 2014
+* **Ph.D. in Computer Science and Engineering**, _University of Notre Dame_, 2023 (expected)
+* **M.S. in Data Science**, _New York University_, 2017
+* **B.S. in Applied Mathematics**, _University of California - Loa Angeles_, 2014
 
   
 Teaching
@@ -31,6 +31,6 @@ Publications
 
 Honors & Awards
 ======
-**Outstanding Graduate Student Teaching Award**, University of Notre Dame, 2020
+**Outstanding Graduate Student Teaching Award**, _University of Notre Dame_, 2020
 
-**Student Travel Award**, IEEE BigData, 2019
+**Student Travel Award**, _IEEE BigData_, 2019
