@@ -32,4 +32,5 @@ Publications
 Honors & Awards
 ======
 **Outstanding Graduate Student Teaching Award**, University of Notre Dame, 2020
+
 **Student Travel Award**, IEEE BigData, 2019
