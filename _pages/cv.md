@@ -15,6 +15,7 @@ Education
 * **M.S. in Data Science**, _New York University_, 2017
 * **B.S. in Applied Mathematics**, _University of California - Loa Angeles_, 2014
 
+---
   
 Teaching
 ======
@@ -22,12 +23,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+---
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+---
 
 Honors & Awards
 ======
