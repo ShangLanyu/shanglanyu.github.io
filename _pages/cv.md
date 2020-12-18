@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science and Engineering, University of Notre Dame, 2023 (expected)
-* M.S. in Data Science, New York University, 2017
-* B.S. in Applied Mathematics, University of California - Loa Angeles, 2014
+* Ph.D. in Computer Science and Engineering, _University of Notre Dame_, 2023 (expected)
+* M.S. in Data Science, _New York University_, 2017
+* B.S. in Applied Mathematics, _University of California - Loa Angeles_, 2014
 
   
 Teaching
