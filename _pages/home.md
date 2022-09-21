@@ -9,11 +9,10 @@ permalink: /
 <br/>
 
 <div class="col-sm-3">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ site.profile_photo }}" class="img-responsive" width="90%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ site.profile_photo }}" class="img-responsive" width="95%" style="float: left" />
   <!-- <h4>{{ site.title}}</h4> -->
 </div>
-<br/>
-<br/>
+<br>
 
 #### Ph.D. Student in Information Sciences
 #### University of Illinois at Urbana-Champaign
