@@ -3,4 +3,4 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendo
-.DS_Store
+**/.DS_Store
