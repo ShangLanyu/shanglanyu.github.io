@@ -37,7 +37,7 @@ My research interest lies in social sensing, machine learning, natural language 
 
 **Lanyu Shang**, Yang Zhang, Quanhui Ye, Na Wei, Dong Wang.
 [SmartWaterSens: A Crowdsensing-based Approach to Groundwater Contamination Estimation](https://ieeexplore.ieee.org/document/9821065) (**Best Paper Honerable Mention**),
-_IEEE International Conference on Smart Computing (SMARTCOMP)_, 2022
+_IEEE International Conference on Smart Computing (SMARTCOMP)_, 2022.
 
 **Lanyu Shang**, Ziyi Kou, Yang Zhang, Jin Chen, Dong Wang.
 [A Privacy-aware Distributed Knowledge Graph Approach to QoIS-driven COVID-19 Misinformation Detection](https://ieeexplore.ieee.org/document/9812879),
