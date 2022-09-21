@@ -127,9 +127,13 @@ _IEEE International Conference on Big Data (Big Data)_, 2018.
 
 
 ### Honors and Awards
+**Best Paper Honerable Mention**, IEEE SMARTCOMP, 2022
+
 **N2Women Young Researcher Fellowship**, 2022
 
 **[Outstanding Graduate Student Teaching Award](https://cse.nd.edu/news/three-doctoral-candidates-receive-outstanding-teaching-awards/)**, _University of Notre Dame_, 2020
+
+**[Video Presentation Award](https://iwqos2020.ieee-iwqos.org/program/awards/)**, _IEEE/ACM IWQoS_, 2020
 
 **Student Travel Award**, _IEEE BigData_, 2019, 2021
 
