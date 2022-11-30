@@ -126,7 +126,7 @@ _IEEE International Conference on Big Data (Big Data)_, 2018.
 
 
 ### Honors and Awards
-**Best Paper Honerable Mention**, _IEEE SMARTCOMP_, 2022
+**Best Paper Honorable Mention**, _IEEE SMARTCOMP_, 2022
 
 <!-- **N2Women Young Researcher Fellowship**, _IEEE SMARTCOMP_, 2022 -->
 
