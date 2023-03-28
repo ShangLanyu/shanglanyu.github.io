@@ -14,6 +14,7 @@ permalink: /
 </div>
 <br>
 
+### Lanyu Shang 
 #### Ph.D. Student in Information Sciences
 #### University of Illinois at Urbana-Champaign
 #### Email: lshang3 [at] illinois [dot] edu
@@ -33,6 +34,10 @@ My research interest lies in social sensing, machine learning, natural language 
 
 
 ### Selected Publications ([Full List](https://scholar.google.com/citations?user=3sxZiyQAAAAJ))
+
+**Lanyu Shang**,Yang Zhang, Zhenrui Yue, YeonJung Choi, Huimin Zeng, Dong Wang.
+[A Knowledge-driven Domain Adaptive Approach to Early Misinformation Detection in an Emergent Health Domain on Social Media](https://ieeexplore.ieee.org/abstract/document/10068587)(**Best Paper Award**),
+_IEEE/ACM International Conference on Advances in Social Network Analysis and Mining (ASONAM)_, 2022.
 
 **Lanyu Shang**, Yang Zhang, Quanhui Ye, Na Wei, Dong Wang.
 [SmartWaterSens: A Crowdsensing-based Approach to Groundwater Contamination Estimation](https://ieeexplore.ieee.org/document/9821065) (**Best Paper Honorable Mention**),
@@ -126,9 +131,11 @@ _IEEE International Conference on Big Data (Big Data)_, 2018.
 
 
 ### Honors and Awards
+**Best Paper Award**, _IEEE/ACM ASONAM_, 2022
+
 **Best Paper Honorable Mention**, _IEEE SMARTCOMP_, 2022
 
-<!-- **N2Women Young Researcher Fellowship**, _IEEE SMARTCOMP_, 2022 -->
+**N2Women Young Researcher Fellowship**, _IEEE SMARTCOMP_, 2022
 
 **[Outstanding Graduate Student Teaching Award](https://cse.nd.edu/news/three-doctoral-candidates-receive-outstanding-teaching-awards/)**, _University of Notre Dame_, 2020
 
