@@ -12,7 +12,7 @@ permalink: /
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ site.profile_photo }}" class="img-responsive" width="95%" style="float: left" />
   <!-- <h4>{{ site.title}}</h4> -->
 </div>
-<br>
+
 
 ### Lanyu Shang 
 #### Ph.D. Student in Information Sciences
