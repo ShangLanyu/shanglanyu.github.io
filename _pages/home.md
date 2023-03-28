@@ -35,8 +35,8 @@ My research interest lies in social sensing, machine learning, natural language 
 
 ### Selected Publications ([Full List](https://scholar.google.com/citations?user=3sxZiyQAAAAJ))
 
-**Lanyu Shang**,Yang Zhang, Zhenrui Yue, YeonJung Choi, Huimin Zeng, Dong Wang.
-[A Knowledge-driven Domain Adaptive Approach to Early Misinformation Detection in an Emergent Health Domain on Social Media](https://ieeexplore.ieee.org/abstract/document/10068587)(**Best Paper Award**),
+**Lanyu Shang**, Yang Zhang, Zhenrui Yue, YeonJung Choi, Huimin Zeng, Dong Wang.
+[A Knowledge-driven Domain Adaptive Approach to Early Misinformation Detection in an Emergent Health Domain on Social Media](https://ieeexplore.ieee.org/abstract/document/10068587) (**Best Paper Award**),
 _IEEE/ACM International Conference on Advances in Social Network Analysis and Mining (ASONAM)_, 2022.
 
 **Lanyu Shang**, Yang Zhang, Quanhui Ye, Na Wei, Dong Wang.
