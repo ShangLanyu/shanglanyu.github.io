@@ -33,6 +33,22 @@ My research interest lies in social sensing, machine learning, natural language 
 <!-- [Department of Computer Science & Engineering](https://cse.nd.edu) at the [University of Notre Dame](https://www.nd.edu)   -->
 
 
+### Honors and Awards
+**Best Paper Award**, _IEEE/ACM ASONAM_, 2022
+
+**Best Paper Honorable Mention**, _IEEE SMARTCOMP_, 2022
+
+**N2Women Young Researcher Fellowship**, _IEEE SMARTCOMP_, 2022
+
+**[Outstanding Graduate Student Teaching Award](https://cse.nd.edu/news/three-doctoral-candidates-receive-outstanding-teaching-awards/)**, _University of Notre Dame_, 2020
+
+**[Video Presentation Award](https://iwqos2020.ieee-iwqos.org/program/awards/)**, _IEEE/ACM IWQoS_, 2020
+
+**Student Travel Award**, _IEEE BigData_, 2019, 2021
+
+
+
+
 ### Selected Publications ([Full List](https://scholar.google.com/citations?user=3sxZiyQAAAAJ))
 
 **Lanyu Shang**, Yang Zhang, Zhenrui Yue, YeonJung Choi, Huimin Zeng, Dong Wang.
@@ -130,18 +146,6 @@ _IEEE International Conference on Big Data (Big Data)_, 2018.
 <!-- ### Teaching -->
 
 
-### Honors and Awards
-**Best Paper Award**, _IEEE/ACM ASONAM_, 2022
-
-**Best Paper Honorable Mention**, _IEEE SMARTCOMP_, 2022
-
-**N2Women Young Researcher Fellowship**, _IEEE SMARTCOMP_, 2022
-
-**[Outstanding Graduate Student Teaching Award](https://cse.nd.edu/news/three-doctoral-candidates-receive-outstanding-teaching-awards/)**, _University of Notre Dame_, 2020
-
-**[Video Presentation Award](https://iwqos2020.ieee-iwqos.org/program/awards/)**, _IEEE/ACM IWQoS_, 2020
-
-**Student Travel Award**, _IEEE BigData_, 2019, 2021
 
 
 
