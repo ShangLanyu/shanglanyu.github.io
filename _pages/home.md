@@ -51,7 +51,7 @@ I am currently a Ph.D. candidate in the [School of Information Sciences (iSchool
 _Note: * denotes equal contribution between first two authors._
 
 
-Renjing Jiang*, **Lanyu Shang***, Ruohan Wang, Dong Wang, Na Wei.
+Renjing Jiang\*, **Lanyu Shang**\*, Ruohan Wang, Dong Wang, Na Wei.
 [Machine Learning Based Prediction of Enzymatic Degradation of Plastics Using Encoded Protein Sequence and Effective Feature Representation](https://doi.org/10.1021/acs.estlett.3c00293),
 _Environmental Science & Technology Letters_, 2023.
 
@@ -71,32 +71,32 @@ _IEEE/ACM International Conference on Advances in Social Network Analysis and Mi
 _IEEE International Conference on Smart Computing (SMARTCOMP)_, 2022.
 
 
-**Lanyu Shang***, Ziyi Kou*, Yang Zhang, Jin Chen, Dong Wang.
+**Lanyu Shang**\*, Ziyi Kou\*, Yang Zhang, Jin Chen, Dong Wang.
 [A Privacy-aware Distributed Knowledge Graph Approach to QoIS-driven COVID-19 Misinformation Detection](https://ieeexplore.ieee.org/document/9812879),
 _IEEE/ACM International Symposium on Quality of Service (IWQoS)_, 2022.
 
 
-Ziyi Kou*, **Lanyu Shang***, Yang Zhang, Dong Wang.
+Ziyi Kou\*, **Lanyu Shang**\*, Yang Zhang, Dong Wang.
 [Can I only share my eyes? A Web Crowdsourcing based Face Partition Approach Towards Privacy-Aware Face Recognition](https://doi.org/10.1145/3485447.3512256),
 _ACM Web Conference_, 2022.
 
 
-**Lanyu Shang***, Ziyi Kou*, Yang Zhang, Dong Wang.
+**Lanyu Shang**\*, Ziyi Kou\*, Yang Zhang, Dong Wang.
 [A Duo-generative Approach to Explainable Multimodal COVID-19 Misinformation Detection](https://doi.org/10.1145/3485447.3512257),
 _ACM Web Conference_, 2022.
 
 
-Ziyi Kou*, **Lanyu Shang***, Yang Zhang, Dong Wang.
+Ziyi Kou\*, **Lanyu Shang**\*, Yang Zhang, Dong Wang.
 [HC-COVID: A Hierarchical Crowdsource Knowledge Graph Approach to Explainable COVID-19 Misinformation Detection](https://doi.org/10.1145/3492855),
 _ACM International Conference on Supporting Group Work (GROUP)_, 2022.
 
 
-Ziyi Kou*, **Lanyu Shang***, Yang Zhang, Zhenrui Yue, Huimin Zeng, Dong Wang.
+Ziyi Kou\*, **Lanyu Shang**\*, Yang Zhang, Zhenrui Yue, Huimin Zeng, Dong Wang.
 [Crowd, Expert & AI: A Human-AI Interactive Approach Towards Natural Language Explanation Based COVID-19 Misinformation Detection](https://www.ijcai.org/proceedings/2022/0706.pdf),
 _International Joint Conference on Artificial Intelligence_, 2022.
 
 
-**Lanyu Shang***, Yang Zhang*, Christina Youn, Dong Wang. 
+**Lanyu Shang**\*, Yang Zhang\*, Christina Youn, Dong Wang. 
 [SAT-Geo: A social sensing based content-only approach to geolocating abnormal traffic events using syntax-based probabilistic learning](https://doi.org/10.1016/j.ipm.2021.102807),
 _Information Processing & Management_, 2022.
 
@@ -126,7 +126,7 @@ _Proceedings of the AAAI Conference on Human Computation and Crowdsourcing_, 202
 _IEEE International Conference on eScience (eScience)_, 2021.
 
 
-Ziyi Kou*, **Lanyu Shang***, Yang Zhang, Christina Youn, Dong Wang.
+Ziyi Kou\*, **Lanyu Shang**\*, Yang Zhang, Christina Youn, Dong Wang.
 [FakeSens: A Social Sensing Approach to COVID-19 Misinformation Detection on Social Media](https://ieeexplore.ieee.org/document/9600021),
 _IEEE International Conference on Distributed Computing in Sensor Systems (DCOSS)_, 2021.
 
@@ -154,7 +154,7 @@ _IEEE International Conference on Big Data (Big Data)_, 2019.
 _Knowledge-Based Systems (KBS)_, 2019.
 
 
-Daniel Zhang*, **Lanyu Shang***, Biao Geng, Shuyue Lai, Ke Li, Hongmin Zhu, Md Tanvir Amin, and Dong Wang. 
+Daniel Zhang\*, **Lanyu Shang**\*, Biao Geng, Shuyue Lai, Ke Li, Hongmin Zhu, Md Tanvir Amin, and Dong Wang. 
 [Fauxbuster: A Content-free Fauxtography Detector Using Social Media Comments](https://ieeexplore.ieee.org/document/8622344), 
 _IEEE International Conference on Big Data (Big Data)_, 2018.
 
