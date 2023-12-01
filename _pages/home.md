@@ -16,7 +16,7 @@ permalink: /
 
 ### Lanyu Shang 
 #### Ph.D. Candidate in Information Sciences
-#### University of Illinois at Urbana-Champaign
+#### University of Illinois Urbana-Champaign
 #### Email: lshang3 [at] illinois [dot] edu
 #### \[[Google Scholar](https://scholar.google.com/citations?user=3sxZiyQAAAAJ)\] \[[LinkedIn](https://www.linkedin.com/in/shanglanyu/)\] \[[ORCID](https://orcid.org/0000-0002-7480-6889)\]
 
