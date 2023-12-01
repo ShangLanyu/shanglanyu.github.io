@@ -26,7 +26,7 @@ permalink: /
 
 ### Short Bio
 
-I am currently a Ph.D. candidate in the [School of Information Sciences (iSchool)](https://ischool.illinois.edu/) at the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/) under the supervision of [Dr. Dong Wang](https://www.wangdong.org/). I received an M.S. in [Data Science](https://cds.nyu.edu) from [New York University (NYU)](http://www.nyu.edu) and a B.S. in [Applied Mathematics](https://ww3.math.ucla.edu) from the [University of California - Los Angeles (UCLA)](https://www.ucla.edu). My research interest lies in human-centric AI, human-AI collaboration, social media analysis, AI for social good, and applied AI. 
+I am currently a Ph.D. candidate in the [School of Information Sciences (iSchool)](https://ischool.illinois.edu/) at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) under the supervision of [Dr. Dong Wang](https://www.wangdong.org/). I received an M.S. in [Data Science](https://cds.nyu.edu) from [New York University (NYU)](http://www.nyu.edu) and a B.S. in [Applied Mathematics](https://ww3.math.ucla.edu) from the [University of California - Los Angeles (UCLA)](https://www.ucla.edu). My research interest lies in human-centric AI, human-AI collaboration, social media analysis, AI for social good, and applied AI. 
 
 <!-- [Department of Computer Science & Engineering](https://cse.nd.edu) at the [University of Notre Dame](https://www.nd.edu)   -->
 
