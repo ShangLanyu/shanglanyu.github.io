@@ -15,7 +15,7 @@ permalink: /
 
 
 ### Lanyu Shang 
-#### Ph.D. Student in Information Sciences
+#### Ph.D. Candidate in Information Sciences
 #### University of Illinois at Urbana-Champaign
 #### Email: lshang3 [at] illinois [dot] edu
 #### \[[Google Scholar](https://scholar.google.com/citations?user=3sxZiyQAAAAJ)\] \[[LinkedIn](https://www.linkedin.com/in/shanglanyu/)\] \[[ORCID](https://orcid.org/0000-0002-7480-6889)\]
@@ -26,9 +26,7 @@ permalink: /
 
 ### Short Bio
 
-I am currently a Ph.D. student in the [School of Information Sciences (iSchool)](https://ischool.illinois.edu/) at the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/) under the supervision of [Dr. Dong Wang](https://www.wangdong.org/). I received an M.S. in [Data Science](https://cds.nyu.edu) from [New York University (NYU)](http://www.nyu.edu) and a B.S. in [Applied Mathematics](https://ww3.math.ucla.edu) from the [University of California - Los Angeles (UCLA)](https://www.ucla.edu). 
-
-My research interest lies in social sensing, machine learning, natural language processing, and network science. I am particularly interested in social media based data mining and analysis, such as multimodal misinformation detection on social media and multimodal information retrieval. 
+I am currently a Ph.D. candidate in the [School of Information Sciences (iSchool)](https://ischool.illinois.edu/) at the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/) under the supervision of [Dr. Dong Wang](https://www.wangdong.org/). I received an M.S. in [Data Science](https://cds.nyu.edu) from [New York University (NYU)](http://www.nyu.edu) and a B.S. in [Applied Mathematics](https://ww3.math.ucla.edu) from the [University of California - Los Angeles (UCLA)](https://www.ucla.edu). My research interest lies in human-centric AI, human-AI collaboration, social media analysis, AI for social good, and applied AI. 
 
 <!-- [Department of Computer Science & Engineering](https://cse.nd.edu) at the [University of Notre Dame](https://www.nd.edu)   -->
 
@@ -50,6 +48,11 @@ My research interest lies in social sensing, machine learning, natural language 
 
 
 ### Selected Publications ([Full List](https://scholar.google.com/citations?user=3sxZiyQAAAAJ))
+_Note: * denotes equal contribution between first two authors._
+
+**Lanyu Shang**, Yang Zhang, Quanhui Ye, Shannon L Speir, Brett W Peters, Ying Wu, Casey J Stoffel, Diogo Bolster, Jennifer L Tank, Danielle M Wood, Na Wei, Dong Wang.
+[CrowdWaterSens: An Uncertainty-aware Crowdsensing Approach to Groundwater Contamination Estimation](https://www.sciencedirect.com/science/article/abs/pii/S1574119223000469),
+_Pervasive and Mobile Computing (PMC)_, 2023.
 
 **Lanyu Shang**, Yang Zhang, Zhenrui Yue, YeonJung Choi, Huimin Zeng, Dong Wang.
 [A Knowledge-driven Domain Adaptive Approach to Early Misinformation Detection in an Emergent Health Domain on Social Media](https://ieeexplore.ieee.org/abstract/document/10068587) (**Best Paper Award**),
@@ -59,7 +62,7 @@ _IEEE/ACM International Conference on Advances in Social Network Analysis and Mi
 [SmartWaterSens: A Crowdsensing-based Approach to Groundwater Contamination Estimation](https://ieeexplore.ieee.org/document/9821065) (**Best Paper Honorable Mention**),
 _IEEE International Conference on Smart Computing (SMARTCOMP)_, 2022.
 
-**Lanyu Shang**, Ziyi Kou, Yang Zhang, Jin Chen, Dong Wang.
+**Lanyu Shang***, Ziyi Kou*, Yang Zhang, Jin Chen, Dong Wang.
 [A Privacy-aware Distributed Knowledge Graph Approach to QoIS-driven COVID-19 Misinformation Detection](https://ieeexplore.ieee.org/document/9812879),
 _IEEE/ACM International Symposium on Quality of Service (IWQoS)_, 2022.
 
