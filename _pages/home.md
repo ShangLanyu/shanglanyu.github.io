@@ -32,6 +32,7 @@ I am currently a Ph.D. candidate in the [School of Information Sciences (iSchool
 
 
 ### Honors and Awards
+
 **Best Paper Award**, _IEEE/ACM ASONAM_, 2022
 
 **Best Paper Honorable Mention**, _IEEE SMARTCOMP_, 2022
@@ -49,6 +50,11 @@ I am currently a Ph.D. candidate in the [School of Information Sciences (iSchool
 
 ### Selected Publications ([Full List](https://scholar.google.com/citations?user=3sxZiyQAAAAJ))
 _Note: * denotes equal contribution between first two authors._
+
+**Lanyu Shang**, Yang Zhang, Zhenrui Yue, YeonJung Choi, Huimin Zeng, Dong Wang. [A Domain
+Adaptive Graph Learning Framework to Early Detection of Emergent Healthcare Misinformation on Social Media](), _International AAAI Conference on Web and Social Media (ICWSM)_, 2024.
+
+**Lanyu Shang**, Yang Zhang, Bozhang Chen, Ruohan Zong, Zhenrui Yue, Huimin Zeng, Na Wei, Dong Wang. [MMAdapt: A Knowledge-Guided Multi-Source Multi-Class Domain Adaptive Framework for Early Health Misinformation Detection](), _ACM Web Conference (WWW)_, 2024.
 
 
 Renjing Jiang\*, **Lanyu Shang**\*, Ruohan Wang, Dong Wang, Na Wei.
